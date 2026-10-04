@@ -1,4 +1,4 @@
-#Demonstrates Python building blocks, data types, and I/O
+#Demonstrates Python building blocks, data types, and I/o
 
 print("=== Student Data System ===")
 
